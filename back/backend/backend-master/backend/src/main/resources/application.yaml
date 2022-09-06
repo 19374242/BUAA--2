@@ -1,0 +1,24 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://47.97.158.6:3306/summerbackend?serverTimezone=GMT%2b8
+    username: root
+    password: gy20001218
+  mail:
+    host: smtp.163.com
+    port:
+    username: super2021_41@163.com
+    password: WQBBEEZPSNZLBXPP
+
+
+  #??????
+  servlet:
+    multipart:
+      max-file-size: 100MB
+server:
+  port: 9091
+
+#文件存储路径（存到后端）
+files:
+  upload:
+    path: /home/files

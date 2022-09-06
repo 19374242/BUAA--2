@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="20d4ef6f-4329-40a0-98bd-77bb682635f8" name="Changes" comment="Changes">
+      <change beforePath="$PROJECT_DIR$/../backend.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../backend.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-master/backend/src/main/java/com/example/backend/Controller/TeamConrtoller.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend-master/backend/src/main/java/com/example/backend/Controller/TeamConrtoller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-master/backend/src/main/java/com/example/backend/Mapper/TeamMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend-master/backend/src/main/java/com/example/backend/Mapper/TeamMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-master/backend/src/main/java/com/example/backend/Service/TeamService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend-master/backend/src/main/java/com/example/backend/Service/TeamService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-master/backend/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/backend-master/backend/src/main/resources/application.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2CpNjG8uxflDYNTgVuIkHjVqoOV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/高远/Desktop/newbackend/backend/backend-master/backend",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20d4ef6f-4329-40a0-98bd-77bb682635f8" name="Changes" comment="" />
+      <created>1659495706014</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659495706014</updated>
+      <workItem from="1659495708233" duration="31000" />
+      <workItem from="1659616519953" duration="581000" />
+      <workItem from="1659618658671" duration="63000" />
+      <workItem from="1659618725965" duration="38000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
